@@ -1,0 +1,6 @@
+C:\Users\a21240505\source\repos\F1Ex2\F1Ex2\bin\Debug\F1Ex2.exe.config
+C:\Users\a21240505\source\repos\F1Ex2\F1Ex2\bin\Debug\F1Ex2.exe
+C:\Users\a21240505\source\repos\F1Ex2\F1Ex2\bin\Debug\F1Ex2.pdb
+C:\Users\a21240505\source\repos\F1Ex2\F1Ex2\obj\Debug\F1Ex6.csproj.CoreCompileInputs.cache
+C:\Users\a21240505\source\repos\F1Ex2\F1Ex2\obj\Debug\F1Ex2.exe
+C:\Users\a21240505\source\repos\F1Ex2\F1Ex2\obj\Debug\F1Ex2.pdb
