@@ -1,0 +1,7 @@
+C:\Users\a21240505\source\repos\FEx4\FEx4\bin\Debug\FEx4.exe.config
+C:\Users\a21240505\source\repos\FEx4\FEx4\bin\Debug\FEx4.exe
+C:\Users\a21240505\source\repos\FEx4\FEx4\bin\Debug\FEx4.pdb
+C:\Users\a21240505\source\repos\FEx4\FEx4\obj\Debug\F2Ex4.csprojResolveAssemblyReference.cache
+C:\Users\a21240505\source\repos\FEx4\FEx4\obj\Debug\F2Ex4.csproj.CoreCompileInputs.cache
+C:\Users\a21240505\source\repos\FEx4\FEx4\obj\Debug\FEx4.exe
+C:\Users\a21240505\source\repos\FEx4\FEx4\obj\Debug\FEx4.pdb
